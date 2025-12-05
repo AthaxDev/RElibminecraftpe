@@ -1,4 +1,4 @@
-name: Decompile libminecraftpe.so
+name: Decompile libminecraftpe.so 1
 
 on:
   push:
